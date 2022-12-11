@@ -1,6 +1,5 @@
-Public class HelloPipeline {
-  Public static void main(String[] args) 
-  {
+public class HelloPipeline {
+  public static void main(String[] args) {
     System.out.println("Hello Everyone");
   }
 }
